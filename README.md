@@ -1,4 +1,4 @@
-# Coursera_Capstone_Project/Clustering Model Predicting Locations for Successful Investments in the US Car Industry.PART1.ipynb
+# Clustering Model Predicting Locations for Successful Investments in the US Car Industry
 
 Capstone Project: Business Problem
 by Debakanta Senapati
